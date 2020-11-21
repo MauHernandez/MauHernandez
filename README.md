@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Mau
 
-<!--
-**MauHernandez/MauHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software and shared network infrastructure. 
+
+
+- 🔭 I’m currently working on a Subscription Ecommerce Platform.
+- 🌱 I’m currently learning REACT, API Design/Develop/Testing, DevOps or Infrastructure Development with the Linux Foundation and AWS. 
+- 👯 I’m looking to collaborate on Community Networks projects.
+- ⚡ Fun fact: I'm a PRO Guitar and Soccer player (in my mind).
+- 🙄 Pro Tip: Don't have multiple Github accounts.
+
+[Linkedin's profile](https://www.linkedin.com/in/maureenhernandez/)
