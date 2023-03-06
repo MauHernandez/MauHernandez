@@ -11,4 +11,8 @@ I'm passionate about software and shared network infrastructure.
 - ⚡ Fun fact: I'm a PRO Guitar and Soccer player (in my mind).
 - 🙄 Pro Tip: Don't have multiple Github accounts.
 
+Private Github Profiles:
+- Raised Real Maureen
+- [Upstart Maureen](https://github.com/MauHernandezUPST)
+
 [Linkedin's profile](https://www.linkedin.com/in/maureenhernandez/)
